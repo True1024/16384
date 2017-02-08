@@ -1,13 +1,10 @@
- <strong class="important">Note:</strong> This game is a modification from 2048, which you can play via <a href="https://gabrielecirulli.github.io/2048/">https://gabrielecirulli.github.io/2048/</a>.  Why this modification? You may be able to always get to the 4096 tile, but getting to 8192 is harder, so instead of the tedium to set up the 4096 tile, this version lets you start from there.
-    </p>
-    <hr>
-    <p>
-    Created by <a href="http://frazerk.net" target="_blank">Frazer Kirkman</a>. You could create your own version by cloning Gabriel's version at <a href="https://github.com/gabrielecirulli/2048">https://github.com/gabrielecirulli/2048</a> or this version at <a href="https://github.com/frazer/8192">https://github.com/frazer/8192</a>.
-
 # 8192
 A mod of [2048](https://gabrielecirulli.github.io/2048/). Which is based on other similar puzzles.
 
-Made just for fun. [Play it here!](http://frazer.github.io/8192/)
+Why this modification? You may be able to always get to the 4096 tile, but getting to 8192 is harder, so instead of the tedium to set up the 4096 tile, this version lets you start from there.
+ 
+
+[Play it here!](http://frazer.github.io/8192/)
 
 
 ### Contributions
