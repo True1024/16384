@@ -12,7 +12,7 @@ Made just for fun. [Play it here!](http://frazer.github.io/8192/)
 
 ### Contributions
 
-To see the team who contributed to the https://gabrielecirulli.github.io/2048/, see that repository for an up to dat list. 
+To see the team who contributed to the https://gabrielecirulli.github.io/2048/, see that repository for an up to date list. 
 
 ### Screenshot
 
