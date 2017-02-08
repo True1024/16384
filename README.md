@@ -1,38 +1,30 @@
-# 2048
-A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
+ <strong class="important">Note:</strong> This game is a modification from 2048, which you can play via <a href="https://gabrielecirulli.github.io/2048/">https://gabrielecirulli.github.io/2048/</a>.  Why this modification? You may be able to always get to the 4096 tile, but getting to 8192 is harder, so instead of the tedium to set up the 4096 tile, this version lets you start from there.
+    </p>
+    <hr>
+    <p>
+    Created by <a href="http://frazerk.net" target="_blank">Frazer Kirkman</a>. You could create your own version by cloning Gabriel's version at <a href="https://github.com/gabrielecirulli/2048">https://github.com/gabrielecirulli/2048</a> or this version at <a href="https://github.com/frazer/8192">https://github.com/frazer/8192</a>.
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+# 8192
+A mod of [2048](https://gabrielecirulli.github.io/2048/). Which is based on other similar puzzles.
 
-The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
+Made just for fun. [Play it here!](http://frazer.github.io/8192/)
+
 
 ### Contributions
 
-[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
-
-Other notable contributors:
-
- - [TimPetricola](https://github.com/TimPetricola) added best score storage
- - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
- - [marcingajda](https://github.com/marcingajda) made swipes work on Windows Phone
- - [mgarciaisaia](https://github.com/mgarciaisaia) added support for Android 2.3
-
-Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
+To see the team who contributed to the https://gabrielecirulli.github.io/2048/, see that repository for an up to dat list. 
 
 ### Screenshot
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
+  <img src="gameBoard.png" alt="Screenshot"/>
 </p>
 
-That screenshot is fake, by the way. I never reached 2048 :smile:
+:smile:
 
-## Contributing
-Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
-
-You can find the same information in the [contributing guide.](https://github.com/gabrielecirulli/2048/blob/master/CONTRIBUTING.md)
 
 ## License
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+8192 is licensed under the [MIT license.](https://github.com/frazer/8192/blob/master/LICENSE.txt)
 
 ## Donations
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
+The game was made by Gabriel, so if you enjoyed the game and feel like supporting him, you can donate to his BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. If you really appreciate this mod, you can contribute to me via PayPal at frazer@frazerk.net - Thank you very much!
